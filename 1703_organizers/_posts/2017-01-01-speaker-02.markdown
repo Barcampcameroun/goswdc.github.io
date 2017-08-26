@@ -1,0 +1,12 @@
+---
+title: Brittany Sickler
+name: in/bsickler/
+subtitle: Small Business Administration
+layout: 1703_default
+modal-id: 1
+img: brittany-sickler.jpg
+thumbnail: brittany-sickler.jpg
+alt: Picture of Brittany Sickler
+topic: Topic
+description: More Info
+---

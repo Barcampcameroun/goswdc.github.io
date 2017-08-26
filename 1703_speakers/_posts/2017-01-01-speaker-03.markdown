@@ -1,0 +1,12 @@
+---
+title: Corey Star
+name: corey-star
+subtitle: Position
+layout: 1703_default
+modal-id: 1
+img: TBD.jpg
+thumbnail: TBD.jpg
+alt: Picture of TBD
+topic: Topic
+description: More Info
+---
