@@ -16,7 +16,38 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-heading">#TGSW2017<br></div>
+                <div class="intro-heading" id="tgsw17">
+                    <script>
+                    // Set the date we're counting down to
+                    var countDownDate = new Date("Nov 10, 2017 18:30:00").getTime();
+
+                    // Update the count down every 1 second
+                    var x = setInterval(function() {
+
+                        // Get todays date and time
+                        var now = new Date().getTime();
+                        
+                        // Find the distance between now an the count down date
+                        var distance = countDownDate - now;
+                        
+                        // Time calculations for days, hours, minutes and seconds
+                        var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+                        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+                        var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+                        
+                        // Output the result in an element with id="demo"
+                        document.getElementById("tgsw17").innerHTML = days + "d " + hours + "h "
+                        + minutes + "m " + seconds + "s ";
+                        
+                        // If the count down is over, write some text 
+                        if (distance < 0) {
+                            clearInterval(x);
+                            document.getElementById("tgsw17").innerHTML = "LIVE";
+                        }
+                    }, 1000);
+                    </script>
+                </div>
                 <div class="intro-lead-in">November 10, 11 and 12</div>
                 <div class="intro-lead-in">Gallaudet University</div>
                 <a href="#intro" class="page-scroll btn btn-xl">Tell Me More</a>
