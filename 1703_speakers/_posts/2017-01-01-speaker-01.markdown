@@ -1,12 +1,12 @@
 ---
-title: Name
-name: Name-1
-subtitle: Position
+title: Jack Bienko
+name: /in/bienko/
+subtitle: Eisenhower Fellow
 layout: 1703_default
 modal-id: 1
-img: TBD.jpg
-thumbnail: TBD.jpg
-alt: Picture of TBD
+img: jack-bienko.png
+thumbnail: jack-bienko.png
+alt: Picture of Jack Bienko
 topic: Topic
 description: More Info
 ---

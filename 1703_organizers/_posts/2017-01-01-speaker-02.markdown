@@ -1,12 +1,12 @@
 ---
-title: Brittany Sickler
-name: in/bsickler/
-subtitle: Small Business Administration
+title: Monica Kang
+name: in/monicakang/
+subtitle: InnovatorsBox
 layout: 1703_default
 modal-id: 1
-img: brittany-sickler.jpg
-thumbnail: brittany-sickler.jpg
-alt: Picture of Brittany Sickler
+img: monica-kang.png
+thumbnail: monica-kang.png
+alt: Picture of Monica Kang
 topic: Topic
 description: More Info
 ---
