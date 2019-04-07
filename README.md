@@ -51,4 +51,4 @@ __Maintainer:__ [Steven A. Rodriguez](https://github.com/steverodrigz).
 
 Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
 
-_GOSWDC are not endorsed and/or supported by Tecgstars, the corporation._
+_GOSWDC are not endorsed and/or supported by Techstars, the corporation._
